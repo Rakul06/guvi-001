@@ -1,14 +1,2 @@
-[
-    {
-        "username":"Rahul",
-        "email":"rahulsk8223@gmail.com",
-        "password":"siva1234",
-        "confirm-password":"siva1234"
-    },
-    {
-        "username":"sk",
-        "email":"sk8223@gmail.com",
-        "password":"s1234",
-        "confirm-password":"s1234"
-    },
-]
+[{"username":"Rakul.B","email":"rahulsk8223@gmail.com","password_1":"siva1234","password_2":"siva1234"},
+{"username":"kutty","email":"kutty@gmail.com","password_1":"1234","password_2":"1234"}]
