@@ -1,5 +1,5 @@
-<?php include('server.php') ?>
-<?php
+<?php include('server.php') ?>          
+<?php                                  //this is a code for save json file
 $message = '';  
 $error = '';  
  if(isset($_POST["reg_user"]))  
