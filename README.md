@@ -7,3 +7,5 @@ IN THIS PROJECT I HAVE USED THE ABOVE HTML,CSS,JAVASCRIPT,AJAX,JASON,MYSQL,PHP C
 
 "I HAVE CREATED A DATABASE IN PHPMYADMIN USING XAMP SERVER" AND THE PROJECT URL="https://localhost/registration/register.php"
 
+By clicking the register.php using xamp server this project can be open.
+
